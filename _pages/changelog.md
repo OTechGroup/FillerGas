@@ -5,30 +5,26 @@ include_in_header: true
 ---
 
 # Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+Welcome to the Filler app changelog. Here you can track all updates and improvements made to our app. This changelog is updated with each new release to provide transparency and keep our users informed about the latest changes. Please find the details for each version below.
 
 <br>
 
 ### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+# **Version 1.0**
+Welcome to the initial release of the Filler gas delivery app! Our mission is to make fuel delivery seamless and straightforward, providing on-demand service directly to your vehicle wherever you are. Thank you for joining us on this journey to revolutionize fuel delivery!
 
 #### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+- **On-Demand Fuel Delivery:** Request fuel delivery to your vehicle's location with just a few taps.
+- **Locate Your Vehicle:** Use our built-in GPS tracking to ensure precise fuel delivery.
+- **Convenient Scheduling:** Choose the best time for fuel delivery, fitting your schedule.
+- **Secure Payment Options:** Pay securely through our app with various payment methods.
+- **Real-Time Tracking:** Monitor the status of your delivery in real-time from your phone.
+- **Eco-Friendly Approach:** By reducing travel to gas stations, we help decrease unnecessary emissions.
+- **Loyalty Rewards:** Join our loyalty program to earn rewards and receive exclusive discounts.
 
 #### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
-
-<br>
-
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+- **Initial Performance Tweaks:** We've ironed out some initial kinks to ensure a smoother user experience.
+- **Minor UI Improvements:** Small adjustments to the user interface to enhance usability and aesthetics.
 
 <br>
 
@@ -37,29 +33,9 @@ ________
 
 ### `Initial Release`
 # **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
-
-<br>
-
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+This marks the launch of Filler, an innovative mobile app designed to transform how you refuel your vehicle. Our app allows users to schedule, track, and pay for fuel delivery to their location at their convenience. We're excited to make your refueling hassle-free and look forward to your feedback to continually improve your experience.
 
 #### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-<br>
-
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
+- **Complete Feature Set Release:** All planned initial features are now live. Enjoy the full convenience of mobile fuel delivery optimized for user-friendliness and reliability.
 
 <br>
