@@ -12,9 +12,9 @@ presskit_download_link                    : https://emilbaehr.com               
 
 # app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_icon                                  : assets/filler_logo_small.jpg                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Filler                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Filler Gas App                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Get Gas Whereever and Whenever.
+app_description                           : Get Gas Where ever and When ever.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -25,53 +25,53 @@ your_name                                 : OtechGroup
 your_link                                 : https://otechgroup.com                     
 your_city                                 : New York                                
 email_address                             : help.otechgroup@gmail.com
-facebook_username                         :                                           
+facebook_username                         : otechgroup                                           
 instagram_username                        : otechgroup
 twitter_username                          : otechgroup
 github_username                           : otechgroup
-youtube_username                          :
-mastodon_link                             : https://mastodon.social/@ebaehr
+youtube_username                          : otechgroup
+mastodon_link                             : https://mastodon.social/@otechgroup
 
 
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
-    
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
-
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
-
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
-
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : On-Demand Fuel Delivery
+    description                           : Never run out of gas again! Filler allows you to request fuel delivery to your vehicle's location with just a few taps.
+    fontawesome_icon_name                 : gas-pump
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Locate Your Vehicle
+    description                           : Easily pinpoint your vehicle's location using our built-in GPS tracking system, ensuring accurate fuel delivery every time.
+    fontawesome_icon_name                 : location-arrow
+  
+  - title                                 : Convenient Scheduling
+    description                           : Schedule your fuel delivery for a time and place that suits you best, whether it's at home, work, or on the go.
+    fontawesome_icon_name                 : calendar-alt
+  
+  - title                                 : Secure Payment Options
+    description                           : Enjoy hassle-free payments through our secure in-app payment system, accepting major credit cards and digital wallets.
+    fontawesome_icon_name                 : credit-card
+  
+  - title                                 : Real-Time Tracking
+    description                           : Stay informed with real-time updates on the status of your fuel delivery, from request to arrival.
+    fontawesome_icon_name                 : truck
+  
+  - title                                 : Eco-Friendly Approach
+    description                           : Filler's mobile fuel delivery service reduces unnecessary travel and emissions, contributing to a greener environment.
+    fontawesome_icon_name                 : leaf
+  
+  - title                                 : Loyalty Rewards
+    description                           : Earn rewards and exclusive discounts for your loyalty to Filler, making every fuel delivery even more rewarding.
+    fontawesome_icon_name                 : gift
+  
+  - title                                 : 24/7 Customer Support
+    description                           : Our dedicated customer support team is available around the clock to assist you with any questions or concerns.
+    fontawesome_icon_name                 : headset
+  
+  - title                                 : Personalized Experience
+    description                           : Enjoy a tailored experience with customizable preferences, notifications, and personalized recommendations based on your fueling habits.
+    fontawesome_icon_name                 : user-cog
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
